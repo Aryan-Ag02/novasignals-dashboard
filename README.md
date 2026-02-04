@@ -345,9 +345,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aryan Agarwal**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Aryan-Ag02](https://github.com/Aryan-Ag02)
+- LinkedIn: [Aryan Agarwal](http://www.linkedin.com/in/aryan-agarwal-a07394209)
+- Email: aryaagarwal0205@gmail.com
 
 ---
 
@@ -378,7 +378,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions, please:
 1. Check the [Troubleshooting](#-troubleshooting) section
-2. Search existing [Issues](https://github.com/yourusername/novasignals-dashboard/issues)
+2. Search existing [Issues](https://github.com/Aryan-Ag02/novasignals-dashboard/issues)
 3. Create a new issue with detailed description
 
 ---
